@@ -1,6 +1,6 @@
 ## Hi there, I'm Jay!
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,go" />
+<img src="https://skillicons.dev/icons?i=go" />
 <img src="https://skillicons.dev/icons?i=postgres" />
 <img src="https://skillicons.dev/icons?i=docker,linux,bash" />
 <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
