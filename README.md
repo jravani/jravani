@@ -17,6 +17,6 @@
 
 <div align="center">
 
-  <a href="https://git.io/streak-stats"><img src="./profile/stats.svg" alt="GitHub Streak" /></a>
+[![Jay's GitHub stats](https://github-stats-extended.vercel.app/api?username=jravani&theme=onedark)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
