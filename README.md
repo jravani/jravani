@@ -8,7 +8,9 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=jravani&theme=onedark-duo&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 </div>
 
 <br>
