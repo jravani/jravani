@@ -17,6 +17,12 @@
 
 <div align="center">
 
-[![Jay's GitHub stats](https://github-stats-extended.vercel.app/api?username=jravani&theme=onedark)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jravani&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=onedark)](https://github-stats-extended.vercel.app/api?username=jravani&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=onedark)
+
+</div>
+
+<div align="center">
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jravani&langs_count=3&theme=onedark)](https://github-stats-extended.vercel.app/api/top-langs?username=jravani&langs_count=3&theme=onedark)
 
 </div>
