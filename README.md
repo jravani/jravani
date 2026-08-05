@@ -9,7 +9,7 @@
 <br>
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=jravani&theme=onedark-duo&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats-git-vercel-jravanis-projects.vercel.app?user=jravani&theme=onedark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 </div>
 
